@@ -27,9 +27,9 @@
 
 - **[cf-tracker](https://github.com/harshiltewari2004/cf-tracker):** a Codeforces coaching platform
   - Finds your skill gaps by topic and difficulty
-  - Benchmarks you against ~773 rated users
+  - Benchmarks you against ~797 rated users
   - Builds a daily practice plan
-  - Rate-limit-aware ingest pipeline with BullMQ, plus 27 tests
+  - Rate-limit-aware ingest pipeline with BullMQ, plus 33 tests
 - **[pr-review-assistant](https://github.com/harshiltewari2004/pr-review-assistant):** finds relevant past pull requests using GitHub data, to speed up code review *(in progress)*
 
 ## Tech I Use
